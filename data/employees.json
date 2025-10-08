@@ -1,0 +1,23 @@
+[{
+  "id":1,
+  "first_name":"Saugat",
+  "last_name":"Rana",
+  "email":"saugat@gmail.com",
+  "gender":"Male",
+  "job_title":"Software Developer"
+},
+{
+  "id":2,
+  "first_name":"Kushal",
+  "last_name":"Gurung",
+  "email":"Kushal@gmail.com",
+  "gender":"Male",
+  "job_title":"It Administration "
+},{
+  "id":3,
+  "first_name":"Sanam",
+  "last_name":"Rana",
+  "email":"Sanam@gmail.com",
+  "gender":"Female",
+  "job_title":"Practical Nurse "
+}]

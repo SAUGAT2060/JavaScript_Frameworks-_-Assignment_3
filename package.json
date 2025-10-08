@@ -1,0 +1,24 @@
+{
+  "name": "lab3_js",
+  "version": "1.0.0",
+  "description": "\"Assignment third\"",
+  "main": "index1.js",
+  "scripts": {
+    "start":"nodemon index1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAUGAT2060/JavaScript_Frameworks-_-Assignment_3.git"
+  },
+  "author": "Group 15 Saugat and Kushal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAUGAT2060/JavaScript_Frameworks-_-Assignment_3/issues"
+  },
+  "homepage": "https://github.com/SAUGAT2060/JavaScript_Frameworks-_-Assignment_3#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
