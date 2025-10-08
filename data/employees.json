@@ -20,4 +20,27 @@
   "email":"Sanam@gmail.com",
   "gender":"Female",
   "job_title":"Practical Nurse "
+},
+{
+  "id":4,
+  "first_name":"Sanjiv",
+  "last_name":"Thapa",
+  "email":"Sanjiv@gmail.com",
+  "gender":"Male",
+  "job_title":"Cook"
+},
+{
+  "id":5,
+  "first_name":"Komal",
+  "last_name":"Gurung",
+  "email":"Komal@gmail.com",
+  "gender":"Male",
+  "job_title":"Building Operator"
+},
+{
+  "id":6,
+  "first_name":"Roshni",
+  "last_name":"Dangol",
+  "email":"Roshni@gmail.com",
+  "job_title":"Human Resource Manager"
 }]
